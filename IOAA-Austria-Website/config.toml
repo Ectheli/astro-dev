@@ -4,17 +4,17 @@ languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
-  [languages.en]
+  [languages.de]
     title = "Home"
     weight = 1
-    contentDir = "content/en"
+    contentDir = "content/de"
     # languageDirection = 'rtl' for Right-To-Left languages
   # [languages.fr]
    #  title = "Ananke Fr"
