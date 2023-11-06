@@ -5,6 +5,7 @@ tags: []
 featured_image: "/images/orion-nebula.jpg"
 description: "Der Auswahlwettbewerb für die IOAA besteht aus zwei Runden"
 weight: "1"
+identifier: "informationen"
 ---
 # Erste Runde
 Die erste Runde...

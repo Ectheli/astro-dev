@@ -2,5 +2,8 @@
 title: "Ablauf"
 description: ""
 featured_image: '/images/Victor_Hugo-Hunchback.jpg'
-weight: "1"
+menu:
+  main:
+    parent: "informationen"
+    weight: "1"
 ---
