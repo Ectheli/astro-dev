@@ -11,21 +11,21 @@
       {{ partial "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
         <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
-          {{ range .Site.Menus.main }}
-            <li class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
-                <div class="dropdown">
-                  <a class="hover-white no-underline white-90" href="{{ .URL }}">
-                    {{ .Name }}
-                  </a>
-                  {{ if .HasChildren }}
-                  <div class="dropdown-content">
-                    {{ range .Children }}
-                      <a href="{{ .URL }}">{{ .Name }}</a>
+          {{ range where .Site.Menus.main "Params.excludeFromMenu" "!=" true}}
+              <li class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+                  <div class="dropdown">
+                    <a class="hover-white no-underline white-90" href="{{ .URL }}">
+                      {{ .Name }}
+                    </a>
+                    {{ if .HasChildren }}
+                    <div class="dropdown-content">
+                      {{ range .Children }}
+                        <a href="{{ .URL }}">{{ .Name }}</a>
+                      {{ end }}
+                    </div>
                     {{ end }}
                   </div>
-                  {{ end }}
-                </div>
-            </li>
+              </li>
           {{ end }}
         </ul>
       {{ end }}
