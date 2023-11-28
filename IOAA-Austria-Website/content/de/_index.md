@@ -1,12 +1,26 @@
 ---
-title: "IOAA - Austria"
+title: "IOAA–Austria"
 
-description: "Willkommen auf der Website des österreichischen Auswahlwettbewerbs zur IOAA"
+description: "Willkommen auf der Website des österreichischen Auswahlwettbewerbs der IOAA"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
   featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
-Die nächste IOAA findet im Sommer 2024 in Brasilien in und um Rio de Janeiro statt. Du interessierst dich für die Physik von Planeten und Sternen, findest den Nachthimmel aufregend und möchtest vielleicht in Brasilien dabei sein? Registriere dich hier und nimm am Auswahlwettbewerb teil:
 
-Die IOAA (International Olympiad on Astrophysics and Astronomy) ist ein jährlicher Wettbewerb für Schüler/Innen mit Interesse in den Bereichen Astrophysik und Astronomie. Sie entstand aus der IAO (International Astronomy Olympiad) heraus, die zusammen mit IMO, IPhO, etc. noch als Wettbewerb in der Sovietunion entstanden sind. Heute hat die IOAA die alte IAO sozusagen abgelöst und Ihren Platz unter den anderen Wissenschaftsolympiaden eingenommen.
+Du interessierst dich für die Physik von Planeten und Sternen, findest den Nachthimmel aufregend und bist bereit für eine Herausforderung? Dann bist du bei uns genau richtig!
+
+<div style="text-align: center;">
+  <a href="/astro/mitmachen/" class="button center" style="margin-right: 20px;">1. Runde 2024</a>
+</div>
+
+<div style="margin-bottom: 100px;"></div>
+
+<div style="border: 2px solid #3498db; padding: 0 20px;">
+<h3>
+Die IOAA
+</h3>
+
+Die IOAA (International Olympiad on Astronomy and Astrophysics) ist ein jährlicher stattfinender Schülerwettbewerb in Astronomie und Astrophysik. Die Olympiade ist in einen theoretischen und einen praktischen Teil unterteilt, bei dem die Schüler\*innen in mehrstündigen Klausuren ihr Können unter Beweis stellen können. Im Mittelpunkt steht neben der Astronomie und Astrophysik aber auch der Austausch mit ähnlich Begeisterten.
+
+Seit 2007 findet sie parallel zu anderen Wissenschaftsolympiaden wie der Mathematik- und Physikolympiade international statt. Die etwa 50 teilnehmenden Ländern werden dabei jeweils durch fünf Schüler\*innen bei dem Wettbewerb vertreten. Hier findest du die [IOAA Website (extern)](https://www.ioaastrophysics.org).  </div>
