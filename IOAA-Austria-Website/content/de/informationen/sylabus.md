@@ -7,3 +7,7 @@ menu:
     parent: "informationen"
     weight: "3"
 ---
+
+In construction.
+
+Meanwhile: [International Syllabus](https://www.ioaastrophysics.org/syllabus/)

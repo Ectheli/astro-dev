@@ -8,4 +8,6 @@ menu:
     weight: "2"
 ---
 
-In Construction
+Lernmaterialien der österreichischen Olympiade existieren noch nicht.
+
+Für interessierte, aber hier die wichtigste Seite mit Aufgaben: [Astro Sandbox](https://www.astrosandbox.com/archive)
