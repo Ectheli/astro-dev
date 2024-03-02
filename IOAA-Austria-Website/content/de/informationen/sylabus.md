@@ -5,9 +5,9 @@ featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 menu:
   main:
     parent: "informationen"
-    weight: "3"
+    weight: "4"
 ---
 
-In construction.
+Unter Bearbeitung.
 
-Meanwhile: [International Syllabus](https://www.ioaastrophysics.org/syllabus/)
+Währenddessen: [Internationaler Syllabus (extern)](https://www.ioaastrophysics.org/syllabus/).

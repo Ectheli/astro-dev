@@ -1,0 +1,12 @@
+{{ $image := .Get "src" }}
+{{ if eq $image "" }}
+  {{ $image = "/astro/images/Placeholder.png" }}
+{{ end }}
+{{ $borderWidth := .Get "borderWidth" | default "5px" }}
+{{ $imageSize := .Get "size" | default "200px" }}
+
+
+
+<div class="circular-image" style="border-width: {{$borderWidth}}; width: {{$imageSize}}; height: {{$imageSize}}">
+  <img src="{{$image}}" alt="Circular Image">
+</div>

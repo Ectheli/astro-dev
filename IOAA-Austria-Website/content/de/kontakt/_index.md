@@ -13,25 +13,35 @@ weight: "4"
 
 
 
-# Organisatoren
+# Das Team
 
-{{< rawhtml >}}
-<div style="display: flex; justify-content: space-around; align-items: flex-end;">
-
-  <div style="text-align: center; width: 1000px; display: flex; flex-direction: column; align-items: center; margin-right: 50px;">
-    <img src="/astro/images/Koschier.jpg" alt="Elias Koschier" style="width: 100%; max-height: 500px;">
-    <p style="margin: 0;">Elias Koschier</p>
+<div class="image-container">
+  <div class="images">
+    <div class="top-image">
+      {{< circular_image src="/astro/images/Miro2.jpg" borderWidth="5px" width="150px" height="150px" >}}
+      <p>Miro Joensuu <br>
+      -Teamleader in 2024</p>
+    </div>
+    <div class="top-image">
+      {{< circular_image src="/astro/images/Lukas_Hutter.jpg" borderWidth="5px" width="150px" height="150px" >}}
+      <p> Dr. Lukas Hutter <br>
+      -Teamleader in 2024</p>
+    </div>
   </div>
-
-  <div style="text-align: center; width: 1000px; display: flex; flex-direction: column; align-items: center; margin-right: 50px;">
-    <img src="/astro/images/Miro.jpg" alt="Miro Joensuu" style="width: 100%; max-height: 300px;">
-    <p style="margin: 0;">Miro Joensuu</p>
+  <div class="images">
+    <div class="bottom-image">
+      {{< circular_image src="/astro/images/Elias_Koschier.jpg" borderWidth="5px" width="150px" height="150px" >}}
+      <p>Elias Koschier</p>
+    </div>
+    <div class="bottom-image">
+      {{< circular_image src="" borderWidth="5px" width="150px" height="150px" >}}
+      <p>Taylan Algan</p>
+    </div>
   </div>
-
-  <div style="text-align: center; width: 1000px; display: flex; flex-direction: column; align-items: center; margin-right: 50px;">
-    <img src="/astro/images/Taylan.jpg" alt="Taylan Algan" style="width: 100%; max-height: 300px;">
-    <p style="margin: 0;">Taylan Algan</p>
-  </div>
-
 </div>
-{{< /rawhtml >}}
+
+## Über uns
+
+Die IOAA-Austria ist ein Verein, der den gleichnamigen Wettbewerb organisiert. Der Verein wird geleitet von einer Gruppe junger Astronomen, Physiker und Pädagogen, die sich ehrenamtlich für die Umsetzung der IOAA in Österreich engagieren.
+
+<!-- Unterstützte den Verein durch eine Mitgliedschaft -->

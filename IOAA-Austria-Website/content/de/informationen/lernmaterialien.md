@@ -5,9 +5,7 @@ featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 menu:
   main:
     parent: "informationen"
-    weight: "2"
+    weight: "3"
 ---
 
-Lernmaterialien der österreichischen Olympiade existieren noch nicht.
-
-Für interessierte, aber hier die wichtigste Seite mit Aufgaben: [Astro Sandbox](https://www.astrosandbox.com/archive)
+Die österreichische Olympiade richtet sich nach internationalem Vorbild. Die wichtigsten Lernmaterialien finden sich auf [Astro Sandbox (extern)](https://www.astrosandbox.com/archive). Außerdem lassen sich einige Altklausuren auf der Seite des [internationalen Bewerbs (extern)](https://www.ioaastrophysics.org/past-questions/) finden.
