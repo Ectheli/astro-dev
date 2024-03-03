@@ -106,7 +106,14 @@ div.circular-image {
 }
 
 .top-image .circular-image, .bottom-image .circular-image {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   margin-bottom: 10px; /* Adjust spacing between image and text */
+}
+
+@media screen and (max-width: 600px) {
+  .top-image .circular-image, .bottom-image .circular-image {
+    width: 170px; /* Adjust maximum width for smaller screens */
+    height: 170px;
+  }
 }
