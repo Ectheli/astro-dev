@@ -19,23 +19,23 @@ weight: "4"
   <div class="images">
     <div class="top-image">
       {{< circular_image src="/astro/images/Miro2.jpg" borderWidth="5px" width="150px" height="150px" >}}
-      <p>Miro Joensuu <br>
-      -Teamleader in 2024</p>
+      <p class="tc">Miro Joensuu <br>
+      -Teamleader 2024</p>
     </div>
     <div class="top-image">
       {{< circular_image src="/astro/images/Lukas_Hutter.jpg" borderWidth="5px" width="150px" height="150px" >}}
-      <p> Dr. Lukas Hutter <br>
-      -Teamleader in 2024</p>
+      <p class="tc"> Dr. Lukas Hutter <br>
+      -Teamleader 2024</p>
     </div>
   </div>
   <div class="images">
     <div class="bottom-image">
       {{< circular_image src="/astro/images/Elias_Koschier.jpg" borderWidth="5px" width="150px" height="150px" >}}
-      <p>Elias Koschier</p>
+      <p class="tc">Elias Koschier</p>
     </div>
     <div class="bottom-image">
       {{< circular_image src="" borderWidth="5px" width="150px" height="150px" >}}
-      <p>Taylan Algan</p>
+      <p class="tc">Taylan Algan</p>
     </div>
   </div>
 </div>
