@@ -102,7 +102,8 @@ div.circular-image {
   display: flex;
   flex-direction: column;
   align-items: center; /* Center items horizontally */
-  margin-right: 20px; /* Adjust spacing between images */
+  margin-right: 10px; /* Adjust spacing between images */
+  margin-left: 10px;
 }
 
 .top-image .circular-image, .bottom-image .circular-image {
@@ -113,7 +114,11 @@ div.circular-image {
 
 @media screen and (max-width: 600px) {
   .top-image .circular-image, .bottom-image .circular-image {
-    width: 170px; /* Adjust maximum width for smaller screens */
-    height: 170px;
+    width: 164px; /* Adjust maximum width for smaller screens */
+    height: 164px;
+  }
+  .bottom-image{
+    margin-right: 13px;
+    margin-left: 13px;
   }
 }
