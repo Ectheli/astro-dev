@@ -42,6 +42,6 @@ weight: "4"
 
 ## Über uns
 
-Die IOAA-Austria ist ein Verein, der den gleichnamigen Wettbewerb organisiert. Der Verein wird geleitet von einer Gruppe junger Astronomen, Physiker und Pädagogen, die sich ehrenamtlich für die Umsetzung der IOAA in Österreich engagieren.
+Die IOAA-Austria ist ein eingetragener, gemeinnütziger Verein, der den gleichnamigen Wettbewerb organisiert. Der Verein wird geleitet von einer Gruppe junger Astronomen, Physiker und Pädagogen, die sich ehrenamtlich für die Umsetzung der IOAA in Österreich engagieren. [Vereinsstatuten](/astro/files/Vereinsstatuten_IOAA-Austria.pdf)
 
 <!-- Unterstützte den Verein durch eine Mitgliedschaft -->

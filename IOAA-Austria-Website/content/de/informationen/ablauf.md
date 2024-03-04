@@ -8,7 +8,14 @@ menu:
     weight: "1"
 ---
 
-Die Auswahl findet in zwei Stufen statt: Zunächst bekommen Schüler\*innen aus Schulen in ganz Österreich die Möglichkeit, bei der etwa einmonatigen Hausaufgabenrunde gestellte Problemstellungen zu bearbeiten. Erfolgreiche Einsendungen werden bewertet und die besten, maximal 20 Einsendungen, erhalten eine Einladung zum Bundeswettbewerb. Bei einer erfolgreichen Teilnahme am Physikolympiade-Bundeswettbewerb 1 dürfen Teilnehmer dieses Wettbewerbs auch direkt an der Bundesrunde der IOAA-Austria teilnehmen. Hier messen sich die besten österreichischen Astronomen und Astrophysiker bei einer mehrstündigen Onlineklausur.  Die besten 5 bekommen die Chance, vom 17.08. bis 26.08. an der diesjährigen IOAA in Brasilien teilzunehmen.
+Der Wettbewerb findet in drei Stufen statt:
+1. Zunächst bekommen Schüler\*innen aus Österreich die Möglichkeit, die Problemstellungen der etwa einmonatigen **Hausaufgabenrunde** zu bearbeiten. Erfolgreiche Einsendungen werden bewertet und die besten, maximal 20 Einsendungen, erhalten eine Einladung zur Bundesrunde.
+
+2. Bei der **Bundesrunde** messen sich die besten österreichischen Astronomen und Astrophysiker in einer mehrstündigen Onlineklausur.  Die besten 3 bekommen die Chance, an der diesjährigen IOAA teilzunehmen.
+
+3. Die **IOAA** findet vom 17.08. bis 26.08. in Rio de Janeiro, Brasilien, statt. Dort treten in mehreren Klausuren die besten Schüler\*innen aus der Welt gegeneinander an.
+
+Erfolgreiche Teilnehmer des Physikolympiade-Bundeswettbewerbs 1 dürfen außerdem direkt an der Bundesrunde der IOAA-Austria teilnehmen, ohne vorher die Probleme der Hausaufgabenrunde bearbeitet zu haben.
 
 Die Aufgabenstellungen bei allen drei Runden des Wettbewerbs werden auf Deutsch gestellt, wobei die Aufgaben der internationalen Runde die englische Originalfassung widerspiegeln.
 
