@@ -1,5 +1,5 @@
 title = "IOAA–Austria"
-baseURL = "https://ioaa-austria.github.io/astro/"
+baseURL = "https://ioaa-austria.at"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
