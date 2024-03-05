@@ -34,7 +34,7 @@ weight: "4"
       <p class="tc">Elias Koschier</p>
     </div>
     <div class="bottom-image">
-      {{< circular_image src="" borderWidth="5px">}}
+      {{< circular_image src="/astro/images/Taylan_Algan_3.jpg" borderWidth="5px">}}
       <p class="tc">Taylan Algan</p>
     </div>
   </div>
