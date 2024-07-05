@@ -5,7 +5,7 @@ featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 weight: "2"
 ---
 
-Du kannst mitmachen, indem du die Aufgaben der Hausaufgabenrunde bearbeitest und sie einreichst. Die Hausaufgabenrunde 2024 ist leider schon vorbei, momentan werden die Finalisten der Bundesrunde auf die IOAA 2024 in Brasilien vorbereitet. Die Aufgaben der nächsten Runde werden vermutlich im Feber 2025 hier veröffentlicht.
+Du kannst mitmachen, indem du die Aufgaben der Hausaufgabenrunde bearbeitest und sie einreichst. Die Hausaufgabenrunde 2024 ist leider schon vorbei; momentan werden die Finalisten der Bundesrunde auf die IOAA 2024 in Brasilien vorbereitet. Die Aufgaben der nächsten Runde werden voraussichtlich im Feber 2025 hier veröffentlicht.
 
 Für genauere Details siehe unsere [Regeln](/informationen/regeln/).
 
