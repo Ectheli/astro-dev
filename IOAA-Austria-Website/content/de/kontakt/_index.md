@@ -13,29 +13,25 @@ weight: "4"
 
 
 
-# Das Team
+# Der Vorstand
 
 <div class="image-container">
   <div class="images">
     <div class="top-image">
-      {{< circular_image src="/images/Miro2.jpg" borderWidth="5px">}}
-      <p class="tc">Miro Joensuu <br>
+      {{< circular_image src="/images/Miro3.jpg" borderWidth="5px">}}
+      <p class="tc">Miro Joensuu (Obmann)<br>
       -Teamleader 2024</p>
     </div>
     <div class="top-image">
       {{< circular_image src="/images/Lukas_Hutter.jpg" borderWidth="5px">}}
-      <p class="tc"> Dr. Lukas Hutter <br>
+      <p class="tc"> Dr. Lukas Hutter (Kassier)<br>
       -Teamleader 2024</p>
     </div>
   </div>
   <div class="images">
     <div class="bottom-image">
       {{< circular_image src="/images/Elias_Koschier.jpg" borderWidth="5px">}}
-      <p class="tc">Elias Koschier</p>
-    </div>
-    <div class="bottom-image">
-      {{< circular_image src="/images/Taylan_Algan_3.jpg" borderWidth="5px">}}
-      <p class="tc">Taylan Algan</p>
+      <p class="tc">Elias Koschier (Schriftführer)</p>
     </div>
   </div>
 </div>
