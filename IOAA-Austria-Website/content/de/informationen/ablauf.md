@@ -19,4 +19,4 @@ Erfolgreiche Teilnehmer des Physikolympiade-Bundeswettbewerbs 1 dürfen außerde
 
 Die Aufgabenstellungen bei allen drei Runden des Wettbewerbs werden auf Deutsch gestellt, wobei die Aufgaben der internationalen Runde die englische Originalfassung widerspiegeln.
 
-Alle weiteren Informationen zur aktuellen Runde findest du [hier](/astro/mitmachen).
+Alle weiteren Informationen zur aktuellen Runde findest du [hier](/mitmachen).
