@@ -122,3 +122,17 @@ div.circular-image {
     margin-left: 13px;
   }
 }
+
+
+figure {
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+}
+
+figure figcaption {
+    font-size: 0.875em; /* This makes the caption text smaller */
+    display: block;
+    text-align: center;
+    font-style: italic; /* Optional: makes the caption italic */
+}

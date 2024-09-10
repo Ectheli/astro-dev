@@ -31,7 +31,8 @@ weight: "4"
   <div class="images">
     <div class="bottom-image">
       {{< circular_image src="/images/Elias_Koschier.jpg" borderWidth="5px">}}
-      <p class="tc">Elias Koschier (Schriftführer)</p>
+      <p class="tc">Elias Koschier (Schriftführer)<br>
+      -Teamleader 2024</p>
     </div>
   </div>
 </div>

@@ -5,7 +5,7 @@ featured_image: '/images/Bundesrunde.PNG'
 menu:
   main:
     parent: "news"
-    weight: "1"
+    weight: "2"
 ---
 Wir begannen die diesjährige Auswahl für die IOAA mit einer erfolgreich abgehaltenen Hausaufgabenrunde, bei der es in diesem Jahr drei Einsendungen gab. Alle Teilnehmer\*innen der Hausaufgabenrunde haben sich für die Bundesrunde qualifizieren können. Die Hausaufgabenrunde, eine einen Monat andauernde Take-Home-Klausur, bestand aus sechs Aufgaben, die von simpler Astronomie bis zur Analyse des Dreikörperproblems reichten. Wir gratulieren besonders den beiden Teilnehmenden, die mit ihren herausragenden Einreichungen ex aequo den ersten Platz belegten:
 
