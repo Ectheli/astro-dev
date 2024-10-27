@@ -1,16 +1,28 @@
 <footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
+  <div class="flex justify-between items-center">
+    <!-- Left Section: Site Title and Logo -->
     <div class="flex items-center">
-        <a class="f4 fw4 hover-white no-underline white-70 dn dib pv2 ph3" href="{{ .Site.Home.Permalink }}" >
-          &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
-        </a>
-        <a href="{{ .Site.Home.Permalink }}">
-       {{ with .Site.Params.site_logo }}
-
+      <a class="f4 fw4 hover-white no-underline white-70 dn dib pv2 ph3" href="{{ .Site.Home.Permalink }}">
+        &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006" }} {{ end }}
+      </a>
+      <a href="{{ .Site.Home.Permalink }}">
+        {{ with .Site.Params.site_logo }}
           <img src="{{ relURL . }}" class="mr3" style="max-height: 50px; max-width: 100%;" />
-        </a>
-       {{ end }}
-       {{ partial "social-follow.html" . }}
+        {{ end }}
+      </a>
+    </div>
+
+    <!-- Center Section: New Text and Image -->
+    <div class="flex items-center justify-center">
+      <p class="white-70 f4 mr3">Arbeitsgruppe der</p>
+      <a href="https://www.oegaa.at" target="_blank">
+        <img src="/images/oegaa_logo.png" alt="Centered Image" style="max-height: 40px; width: auto;">
+      </a>
+    </div>
+
+    <!-- Right Section: Social Follow Icons -->
+    <div class="flex items-center">
+      {{ partial "social-follow.html" . }}
     </div>
   </div>
 </footer>

@@ -12,33 +12,35 @@ weight: "4"
 {{< form-contact action="https://formspree.io/f/xjvqdvza"  >}}
 
 
-
-# Der Vorstand
+Auch erreichbar über: [astro-olympiad@outlook.com](mailto:astro-olympiad@outlook.com).
+## Zuständig in der Arbeitsgruppe
 
 <div class="image-container">
   <div class="images">
     <div class="top-image">
       {{< circular_image src="/images/Miro3.jpg" borderWidth="5px">}}
-      <p class="tc">Miro Joensuu (Obmann)<br>
-      -Teamleader 2024</p>
+      <p class="tc">Miro Joensuu (Arbeitsgruppenleiter)<br></p>
     </div>
     <div class="top-image">
-      {{< circular_image src="/images/Lukas_Hutter.jpg" borderWidth="5px">}}
-      <p class="tc"> Dr. Lukas Hutter (Kassier)<br>
-      -Teamleader 2024</p>
+      {{< circular_image src="/images/Elias_Koschier.jpg" borderWidth="5px">}}
+      <p class="tc">Elias Koschier (Stellvertreter)<br></p>
     </div>
   </div>
   <div class="images">
-    <div class="bottom-image">
-      {{< circular_image src="/images/Elias_Koschier.jpg" borderWidth="5px">}}
-      <p class="tc">Elias Koschier (Schriftführer)<br>
-      -Teamleader 2024</p>
+    <div class="top-image">
+      {{< circular_image src="/images/Benjamin_Tonner_2.jpg" borderWidth="5px">}}
+      <p class="tc">Benjamin Tonner (Wettbewerbskoordinator)<br></p>
+    </div>
+    <div class="top-image">
+      {{< circular_image src="/images/Placeholder.png" borderWidth="5px">}}
+      <p class="tc">Donata Giulini (Social-Media Managerin)<br></p>
     </div>
   </div>
 </div>
 
+
 ## Über uns
 
-Die IOAA-Austria ist ein eingetragener, gemeinnütziger Verein, der den gleichnamigen Wettbewerb organisiert. Der Verein wird geleitet von einer Gruppe junger Astronomen, Physiker und Pädagogen, die sich ehrenamtlich für die Umsetzung der IOAA in Österreich engagieren. [Vereinsstatuten](/files/Vereinsstatuten_IOAA-Austria.pdf)
+Die IOAA-Austria ist eine in der [Österreichischen Gesellschaft für Astronomie und Astrophysik](https://www.oegaa.at) eingetragene Arbeitsgruppe, die den gleichnamigen Wettbewerb organisiert. Die Arbeitsgruppe wird geleitet von einer Gruppe junger Astronomen, Physiker und Pädagogen, die sich ehrenamtlich für die Umsetzung der IOAA in Österreich engagieren. [ÖGAA Vereinsstatuten](https://www.oegaa.at/Die-OeGAA/index.php/)
 
 <!-- Unterstützte den Verein durch eine Mitgliedschaft -->

@@ -19,9 +19,9 @@ Staatsbürgerschaft ist für die Teilnahme nicht ausschlaggebend. Es können auc
 
 Die Aufgaben jeder Runde (inklusive der Hausaufgabenrunde) sollen alleine bearbeitet werden.
 
-Bei der Hausaufgabenrunde dürfen alle Hilfsmittel zu Rat gezogen werden. Das beinhaltet Bücher, das Internet und Programme wie Stellarium. Jedoch muss deren Verwendung in der Lösung gekennzeichnet werden. Alle Aufgaben sind aber ohne externe Hilfe lösbar und es wird empfohlen, sie in diesem Sinne zu bearbeiten.
+Bei der Hausaufgabenrunde dürfen alle Hilfsmittel zurate gezogen werden. Das beinhaltet Bücher, das Internet und Programme wie Stellarium. Jedoch muss deren Verwendung in der Lösung gekennzeichnet werden. Alle Aufgaben sind aber ohne externe Hilfe lösbar und es wird empfohlen, sie in diesem Sinne zu bearbeiten.
 
-Bei der Bundesrunde dürfen keine externen Hilfsmittel verwendet werden. Lediglich der eigene, nicht programmierbare Taschenrechner ist erlaubt. Formelsammlungen werden bei der Bundesrunde bereitgestellt.
+Bei der Bundesrunde dürfen keine externen Hilfsmittel verwendet werden. Lediglich der eigene nicht programmierbare Taschenrechner ist erlaubt. Formelsammlungen werden bei der Bundesrunde bereitgestellt.
 
 
 ### Verstoß

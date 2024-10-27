@@ -25,6 +25,7 @@ enableRobotsTXT = true
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
+  social = []
 
 [params]
   text_color = ""
@@ -35,7 +36,17 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   recent_posts_number = 3
   site_logo = "images/IOAA_Austria_Logo_2.svg"
-  
+  [[params.ananke_socials]]
+  name = "instagram"
+  url = "https://www.instagram.com/ioaaaustria/"
+  color = "#ffffff"
+
+  [[params.ananke_socials]]
+  name = "newsletter"
+  url = "https://19bbd83e.sibforms.com/serve/MUIFAPSfjgC4vpZsEk3SwRR8ZI1Yrn6Yy7qfTL5bdSjxptTHznF-wT8fZNAfOYEw7NwIdrytIB7RdzeapqrHNagVmQl24VHgJR4f_LVh1hI_-JXGIFTkxvn6zJDQiSERDcDLW2EeIL6PakefiiNAowLXRE8Nt5aIWouSkxdYhXAUHEt-M9bnm13Fk9Y_gQP0QQB18_FvGA9e_k9b"
+  color = "#ffffff"
+
+
  [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
 

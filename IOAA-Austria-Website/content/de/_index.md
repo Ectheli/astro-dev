@@ -24,3 +24,23 @@ Du interessierst dich für die Physik von Planeten und Sternen, findest den Nach
 Die IOAA (International Olympiad on Astronomy and Astrophysics) ist ein jährlich stattfindender Schülerwettbewerb in Astronomie und Astrophysik. Die Olympiade ist in einen theoretischen und einen praktischen Teil unterteilt, bei dem die Schüler\*innen in mehrstündigen Klausuren ihr Können unter Beweis stellen. Im Mittelpunkt steht neben der Astronomie und Astrophysik aber auch der Austausch mit ähnlich Gesinnten.
 
 Seit 2007 findet die IOAA parallel zu anderen Wissenschaftsolympiaden wie der Mathematik- und Physikolympiade international statt. Die etwa 50 teilnehmenden Länder werden dabei jeweils durch fünf Schüler\*innen bei dem Wettbewerb vertreten. Hier findest du die [IOAA Website (extern)](https://www.ioaastrophysics.org).  </div>
+
+
+<!-- Sponsors Section -->
+<div style="margin-top: 50px; text-align: center;">
+  <h2>Unterstützt durch</h2>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <!-- Sponsor 1 -->
+    <a href="https://teleskop-austria.at/" target="_blank">
+      <img src="/images/teleskop-austria_logo-PRESS.png" alt="Teleskop-Austria" style="width: auto; height: 150px;">
+    </a>
+    <!-- Sponsor 2 -->
+    <a href="https://mmf.univie.ac.at/" target="_blank">
+      <img src="/images/mmf_logo.png" alt="Projekt MmF" style="width: auto; height: 150px">
+    </a>
+    <a href="https://www.oegaa.at" target="_blank">
+      <img src="/images/oegaa_logo.png" alt="ÖGAA" style="width: auto; height: 150px;">
+    </a>
+    <!-- Add more sponsors as needed -->
+  </div>
+</div>

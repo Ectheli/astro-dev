@@ -8,6 +8,4 @@ menu:
     weight: "4"
 ---
 
-Unter Bearbeitung.
-
-Währenddessen: [Internationaler Syllabus (extern)](https://www.ioaastrophysics.org/syllabus/).
+Unser Syllabus entspricht momentan dem [internationalen Syllabus (extern)](https://www.ioaastrophysics.org/syllabus/).

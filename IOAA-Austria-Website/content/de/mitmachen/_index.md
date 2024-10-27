@@ -1,11 +1,11 @@
 ---
 title: "Mitmachen"
-description: "Aktueller Wettbewerb - IOAA 2024"
+description: "Kommender Wettbewerb - Hausaufgabenrunde 2025"
 featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 weight: "2"
 ---
 
-Du kannst mitmachen, indem du die Aufgaben der Hausaufgabenrunde bearbeitest und sie einreichst. Die Hausaufgabenrunde 2024 ist leider schon vorbei; momentan werden die Finalisten der Bundesrunde auf die IOAA 2024 in Brasilien vorbereitet. Die Aufgaben der nächsten Runde werden voraussichtlich im Feber 2025 hier veröffentlicht.
+Für eine Chance, an unserer Bundesrunde und der IOAA 2025 in Mumbai, Indien teilzunehmen, musst du die Aufgaben unserer Hausaufgabenrunde bearbeiten und sie einreichen. Die Hausaufgabenrunde 2025 wird voraussichtlich am 01.01.2025 hier veröffentlicht und kann bis zum 01.04.2025 bearbeitet werden. Bis dahin kannst du dich in unseren [Lernmaterialien](/informationen/lernmaterialien) an unseren Aufgaben vom vergangenen Jahr probieren.
 
 Für genauere Details siehe unsere [Regeln](/informationen/regeln/).
 

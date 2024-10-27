@@ -2,6 +2,7 @@
   GetServiceIcon
 
   User can overwrite/complement in assets/ananke/socials/{service_name}.svg
+  and assets/ananke/socials/{service_name}.png
 
   @author @regisphilibert
 
@@ -14,8 +15,17 @@
   @example - Go Template
     {{ $icon := partialCached "tnd-socials/private/GetIcon" $icon $icon }}
 */}}
+
 {{ $icon := "" }}
-{{ with resources.Get (printf "ananke/socials/%s.svg" $) }}
-  {{ $icon = .Content | safeHTML }}
+
+{{ $svg := resources.Get (printf "ananke/socials/%s.svg" $) }}
+{{ if $svg }}
+  {{ $icon = $svg.Content | safeHTML }}
+{{ else }}
+  {{ $png := resources.Get (printf "ananke/socials/%s.png" $) }}
+  {{ if $png }}
+    {{ $icon = $png.Content | safeHTML }}
+  {{ end }}
 {{ end }}
+
 {{ return $icon }}

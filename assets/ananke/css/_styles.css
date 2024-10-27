@@ -95,7 +95,7 @@ div.circular-image {
 
 .images {
   display: flex;
-  align-items: flex-end; /* Align items to the bottom */
+  align-items: center; /* Align items to the bottom */
 }
 
 .top-image, .bottom-image {
