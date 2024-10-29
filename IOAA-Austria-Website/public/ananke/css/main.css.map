@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/ecthelion/IOAA-Website/astro-dev/IOAA-Austria-Website",
+	"sourceRoot": "/home/miro/IOAA-Website/Website/IOAA-Austria-Website",
 	"sources": [
 		"ananke/css/main.css"
 	],

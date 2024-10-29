@@ -5,7 +5,7 @@ featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 weight: "2"
 ---
 
-Für eine Chance, an unserer Bundesrunde und der IOAA 2025 in Mumbai, Indien teilzunehmen, musst du die Aufgaben unserer Hausaufgabenrunde bearbeiten und sie einreichen. Die Hausaufgabenrunde 2025 wird voraussichtlich am 01.01.2025 hier veröffentlicht und kann bis zum 01.04.2025 bearbeitet werden. Bis dahin kannst du dich in unseren [Lernmaterialien](/informationen/lernmaterialien) an unseren Aufgaben vom vergangenen Jahr probieren.
+Für eine Chance, an unserer Bundesrunde und der IOAA 2025 in Mumbai, Indien teilzunehmen, musst du die Aufgaben unserer Hausaufgabenrunde bearbeiten und sie einreichen. Die Hausaufgabenrunde 2025 wird am 01.01.2025 hier veröffentlicht und kann bis zum 01.04.2025 bearbeitet werden. Bis dahin kannst du dich in unseren [Lernmaterialien](/informationen/lernmaterialien) an unseren Aufgaben vom vergangenen Jahr probieren.
 
 Für genauere Details siehe unsere [Regeln](/informationen/regeln/).
 
