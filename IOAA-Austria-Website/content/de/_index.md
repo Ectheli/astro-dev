@@ -10,9 +10,9 @@ cascade:
 
 Du interessierst dich für die Physik von Planeten und Sternen, findest den Nachthimmel aufregend und bist bereit für eine Herausforderung? Dann bist du bei uns genau richtig!
 
-<!-- <div style="text-align: center;">
-  <a href="/mitmachen/" class="button center" style="margin-right: 20px;">1. Runde 2024</a>
-</div> -->
+<div style="text-align: center;">
+  <a href="/mitmachen/" class="button center" style="margin-right: 20px;">Mach mit ab dem 1.1.2025</a>
+</div>
 
 <div style="margin-bottom: 100px;"></div>
 
