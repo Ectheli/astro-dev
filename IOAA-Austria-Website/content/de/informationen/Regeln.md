@@ -19,7 +19,7 @@ Staatsbürgerschaft ist für die Teilnahme nicht ausschlaggebend. Es können auc
 
 Die Aufgaben jeder Runde (inklusive der Hausaufgabenrunde) sollen alleine bearbeitet werden.
 
-Bei der Hausaufgabenrunde dürfen alle Hilfsmittel zurate gezogen werden. Das beinhaltet Bücher, das Internet und Programme wie Stellarium. Jedoch muss deren Verwendung in der Lösung gekennzeichnet werden. Alle Aufgaben sind aber ohne externe Hilfe lösbar und es wird empfohlen, sie in diesem Sinne zu bearbeiten.
+Bei der Hausaufgabenrunde dürfen alle Hilfsmittel zurate gezogen werden. Das beinhaltet Bücher, das Internet und Programme wie Stellarium. Die besten, maximal 20, Teilnehmer:innen der Hausaufgabenrunde erhalten die Möglichkeit, an der Bundesrunde teilzunehmen.
 
 Bei der Bundesrunde dürfen keine externen Hilfsmittel verwendet werden. Lediglich der eigene nicht programmierbare Taschenrechner ist erlaubt. Formelsammlungen werden bei der Bundesrunde bereitgestellt.
 
