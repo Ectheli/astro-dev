@@ -40,7 +40,7 @@ enableRobotsTXT = true
   site_logo = "images/IOAA_Austria_Logo_2.svg"
   [[params.ananke_socials]]
   name = "instagram"
-  url = "https://www.instagram.com/ioaaaustria/"
+  url = "https://www.instagram.com/ioaa_austria/"
   color = "#ffffff"
 
   [[params.ananke_socials]]

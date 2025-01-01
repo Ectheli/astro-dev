@@ -32,7 +32,7 @@ Auch erreichbar über: [astro-olympiad@outlook.com](mailto:astro-olympiad@outloo
       <p class="tc">Benjamin Tonner (Wettbewerbskoordinator)<br></p>
     </div>
     <div class="top-image">
-      {{< circular_image src="/images/Placeholder.png" borderWidth="5px">}}
+      {{< circular_image src="/images/Donata_Giulini_2.jpg" borderWidth="5px">}}
       <p class="tc">Donata Giulini (Social-Media Managerin)<br></p>
     </div>
   </div>
