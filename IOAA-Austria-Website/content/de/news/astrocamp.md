@@ -5,7 +5,7 @@ featured_image: '/images/IMG_1681_v2.JPG'
 menu:
   main:
     parent: "news"
-    weight: "2"
+    weight: "3"
 ---
 
 Vom 29. Juli bis zum 3. August fand der Vorbereitungskurs für die Internationale Astronomie- und Astrophysikolympiade (IOAA) 2024 in Zusammenarbeit mit dem [Projekt MmF](https://mmf.univie.ac.at) und dem [Institut für Astrophysik](https://astro.univie.ac.at) in Wien statt. Dabei wurden Teilnehmer:innen des IOAA-Austria Nationalteams sowie Preisträger:innen des Physikolympiade-Bundesfinales, die 2025 an der IOAA-Austria teilnehmen können, nach Wien eingeladen.

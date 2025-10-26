@@ -11,7 +11,7 @@ cascade:
 Du interessierst dich für die Physik von Planeten und Sternen, findest den Nachthimmel aufregend und bist bereit für eine Herausforderung? Dann bist du bei uns genau richtig!
 
 <div style="text-align: center;">
-  <a href="/mitmachen/" class="button center" style="margin-right: 20px;">Mach jetzt mit!</a>
+  <a href="/mitmachen/" class="button center" style="margin-right: 20px;">Mach mit!</a>
 </div>
 
 <div style="margin-bottom: 100px;"></div>
@@ -23,7 +23,7 @@ Du interessierst dich für die Physik von Planeten und Sternen, findest den Nach
 
 Die IOAA (International Olympiad on Astronomy and Astrophysics) ist ein jährlich stattfindender Schülerwettbewerb in Astronomie und Astrophysik. Die Olympiade ist in einen theoretischen und einen praktischen Teil unterteilt, bei dem die Schüler:innen in mehrstündigen Klausuren ihr Können unter Beweis stellen. Im Mittelpunkt steht neben der Astronomie und Astrophysik aber auch der Austausch mit ähnlich Gesinnten.
 
-Seit 2007 findet die IOAA parallel zu anderen Wissenschaftsolympiaden wie der Mathematik- und Physikolympiade international statt. Die etwa 50 teilnehmenden Länder werden dabei jeweils durch fünf Schüler:innen bei dem Wettbewerb vertreten. Hier findest du die [IOAA Website (extern)](https://www.ioaastrophysics.org).  </div>
+Seit 2007 findet die IOAA parallel zu anderen Wissenschaftsolympiaden wie der Mathematik- und Physikolympiade international statt. Die etwa 50 teilnehmenden Länder werden dabei jeweils durch fünf Schüler:innen bei dem Wettbewerb vertreten. Hier findest du die [IOAA Website](https://www.ioaastrophysics.org).  </div>
 
 
 <!-- Sponsors Section -->
@@ -35,11 +35,11 @@ Seit 2007 findet die IOAA parallel zu anderen Wissenschaftsolympiaden wie der Ma
       <img src="/images/teleskop-austria_logo-PRESS.png" alt="Teleskop-Austria" style="width: auto; height: 150px;">
     </a>
     <!-- Sponsor 2 -->
-    <a href="https://mmf.univie.ac.at/" target="_blank">
-      <img src="/images/mmf_logo.png" alt="Projekt MmF" style="width: auto; height: 150px">
+    <a href="https://www.ffg.at/" target="_blank">
+      <img src="/images/FFG_Logo_DE_CMYK.png" alt="FFG" style="width: auto; height: 150px">
     </a>
-    <a href="https://www.oegaa.at" target="_blank">
-      <img src="/images/oegaa_logo.png" alt="ÖGAA" style="width: auto; height: 150px;">
+    <a href="https://www.bmimi.gv.at/" target="_blank">
+      <img src="/images/Logo_BMIMI_Gefoerdert_DE_SRGB.png" alt="BMIMI" style="width: auto; height: 150px;">
     </a>
     <!-- Add more sponsors as needed -->
   </div>

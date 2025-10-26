@@ -12,7 +12,7 @@ menu:
 
 Die Teilnahme ist allen im Wettbewerbsjahr an einer österreichischen Schule, in der Oberstufe eingeschriebenen Schüler:innen gestattet, die zum 1. Juli des Jahres noch jünger als 20 sind. Insbesondere können also auch Schüler:innen im Maturajahrgang teilnehmen.
 
-Staatsbürgerschaft ist für die Teilnahme nicht ausschlaggebend. Es können auch Schüler:innen an österreichischen Auslandsschulen am Wettbewerb teilnehmen.
+Staatsbürgerschaft ist für die Teilnahme nicht ausschlaggebend.
 
 
 ### Klausuren

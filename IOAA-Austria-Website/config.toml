@@ -43,10 +43,10 @@ enableRobotsTXT = true
   url = "https://www.instagram.com/ioaa_austria/"
   color = "#ffffff"
 
-  [[params.ananke_socials]]
-  name = "newsletter"
-  url = "https://19bbd83e.sibforms.com/serve/MUIFAPSfjgC4vpZsEk3SwRR8ZI1Yrn6Yy7qfTL5bdSjxptTHznF-wT8fZNAfOYEw7NwIdrytIB7RdzeapqrHNagVmQl24VHgJR4f_LVh1hI_-JXGIFTkxvn6zJDQiSERDcDLW2EeIL6PakefiiNAowLXRE8Nt5aIWouSkxdYhXAUHEt-M9bnm13Fk9Y_gQP0QQB18_FvGA9e_k9b"
-  color = "#ffffff"
+ # [[params.ananke_socials]]
+ # name = "newsletter"
+ # url = "https://19bbd83e.sibforms.com/serve/MUIFAPSfjgC4vpZsEk3SwRR8ZI1Yrn6Yy7qfTL5bdSjxptTHznF-wT8fZNAfOYEw7NwIdrytIB7RdzeapqrHNagVmQl24VHgJR4f_LVh1hI_-JXGIFTkxvn6zJDQiSERDcDLW2EeIL6PakefiiNAowLXRE8Nt5aIWouSkxdYhXAUHEt-M9bnm13Fk9Y_gQP0QQB18_FvGA9e_k9b"
+ # color = "#ffffff"
 
 
  [markup.goldmark.renderer]
