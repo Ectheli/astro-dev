@@ -17,9 +17,9 @@ Staatsbürgerschaft ist für die Teilnahme nicht ausschlaggebend.
 
 ### Klausuren
 
-Die Aufgaben jeder Runde (inklusive der Hausaufgabenrunde) sollen alleine bearbeitet werden.
+Die Aufgaben jeder Runde (inklusive der Hausaufgabenrunden) sollen alleine bearbeitet werden.
 
-Bei der Hausaufgabenrunde dürfen alle Hilfsmittel zurate gezogen werden. Das beinhaltet Bücher, das Internet und Programme wie Stellarium. Die besten, maximal 20, Teilnehmer:innen der Hausaufgabenrunde erhalten die Möglichkeit, an der Bundesrunde teilzunehmen.
+Bei den Hausaufgabenrunden dürfen alle Hilfsmittel zurate gezogen werden. Das beinhaltet Bücher, das Internet und Programme wie Stellarium. Die besten, maximal 20, Teilnehmer:innen der Hausaufgabenrunden erhalten die Möglichkeit, an der Bundesrunde teilzunehmen.
 
 Bei der Bundesrunde dürfen keine externen Hilfsmittel verwendet werden. Lediglich der eigene nicht programmierbare Taschenrechner ist erlaubt. Formelsammlungen werden bei der Bundesrunde bereitgestellt.
 

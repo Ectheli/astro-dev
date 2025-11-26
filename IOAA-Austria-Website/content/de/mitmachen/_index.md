@@ -5,9 +5,9 @@ featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 weight: "2"
 ---
 
-Für eine Chance, an unserer Bundesrunde und der IOAA 2026 in Hanoi, Vietnam teilzunehmen, musst du die Aufgaben unserer Hausaufgabenrunde bearbeiten und sie einreichen. Die Hausaufgabenrunde wird im Frühjahr 2026 hier veröffentlicht. Bis dahin kannst du dich in unseren [Lernmaterialien](/informationen/lernmaterialien) an unseren Aufgaben vergangener Jahre probieren.
+Für eine Chance, an unserer Bundesrunde und der IOAA 2026 in Hanoi, Vietnam teilzunehmen, musst du die Aufgaben unserer Hausaufgabenrunden bearbeiten und sie einreichen. Die erste Hausaufgabenrunde wird am 07.01.2026 hier veröffentlicht und kann bis zum 22.02.2026 bearbeitet werden. Bis dahin kannst du dich in unseren [Lernmaterialien](/informationen/lernmaterialien) an unseren Aufgaben vergangener Jahre probieren.
 
-Für genauere Details siehe unsere [Regeln](/informationen/regeln/).
+Für genauere Details siehe den [Ablauf](/informationen/ablauf) und unsere [Regeln](/informationen/regeln/).
 
 <!-- Du kannst ab sofort die Aufgaben der [Hausaufgabenrunde](/files/Hausaufgabenrunde_IOAA-Austria_2025.pdf) bearbeiten. Die Lösungen können bis zum **09.03.2025 (23:59 Uhr)** als E-Mail bei [astro-olympiad@outlook.com](mailto:astro-olympiad@outlook.com) eingereicht werden. Die Lösungen dürfen handschriftlich oder am Computer erstellt werden und sollen als eine PDF-Datei im Format **vorname-nachname.pdf** abgegeben werden. Erwähne außerdem in deiner E-Mail deinen **Vornamen**, **Nachnamen** sowie deine **Schule** und **Klassenstufe**.
 
