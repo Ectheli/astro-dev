@@ -30,6 +30,7 @@ enableRobotsTXT = true
   social = []
 
 [params]
+  env = "production"
   text_color = ""
   author = ""
   favicon = "images/IOAA_Austria_Logo_2.svg"
