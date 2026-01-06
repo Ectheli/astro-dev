@@ -39,6 +39,10 @@ Auch erreichbar über: [astro-olympiad@outlook.com](mailto:astro-olympiad@outloo
         {{< circular_image src="/images/Matthis_Tradel.jpg" borderWidth="5px">}}
         <p class="tc">Matthis Tradel<br></p>
       </div>
+      <div class="top-image">
+        {{< circular_image src="/images/Lukas_Gabriel.jpg" borderWidth="5px">}}
+        <p class="tc">Lukas Gabriel<br></p>
+      </div>
       </div>
   </div>
 </div>
