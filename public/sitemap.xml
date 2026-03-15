@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ioaa-austria.at/informationen/</loc>
+    <loc>http://localhost:34949/informationen/</loc>
     <lastmod>2023-09-08T14:10:49+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ioaa-austria.at/mitmachen/</loc>
+    <loc>http://localhost:34949/mitmachen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ioaa-austria.at/kontakt/</loc>
+    <loc>http://localhost:34949/kontakt/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ioaa-austria.at/news/</loc>
+    <loc>http://localhost:34949/news/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ioaa-austria.at/</loc>
+    <loc>http://localhost:34949/</loc>
     <lastmod>2023-09-08T14:10:49+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ioaa-austria.at/informationen/ablauf/</loc>
+    <loc>http://localhost:34949/informationen/ablauf/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ioaa-austria.at/categories/</loc>
+    <loc>http://localhost:34949/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ioaa-austria.at/news/ioaa_2024/</loc>
+    <loc>http://localhost:34949/news/ioaa_2024/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ioaa-austria.at/informationen/lernmaterialien/</loc>
+    <loc>http://localhost:34949/informationen/lernmaterialien/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ioaa-austria.at/informationen/regeln/</loc>
+    <loc>http://localhost:34949/informationen/regeln/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ioaa-austria.at/informationen/sylabus/</loc>
+    <loc>http://localhost:34949/informationen/sylabus/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ioaa-austria.at/tags/</loc>
+    <loc>http://localhost:34949/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ioaa-austria.at/news/ioaa_2025/</loc>
+    <loc>http://localhost:34949/news/ioaa_2025/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ioaa-austria.at/news/astrocamp/</loc>
+    <loc>http://localhost:34949/news/astrocamp/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ioaa-austria.at/news/bundesrunde_2024/</loc>
+    <loc>http://localhost:34949/news/bundesrunde_2024/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://ioaa-austria.at/news/ioaa_2023/</loc>
+    <loc>http://localhost:34949/news/ioaa_2023/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

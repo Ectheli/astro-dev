@@ -10,16 +10,13 @@ menu:
 
 ### Teilnahme
 
-Die Teilnahme ist allen im Wettbewerbsjahr an einer österreichischen Schule, in der Oberstufe eingeschriebenen Schüler:innen gestattet, die zum 1. Juli des Jahres noch jünger als 20 sind. Insbesondere können also auch Schüler:innen im Maturajahrgang teilnehmen.
-
-Staatsbürgerschaft ist für die Teilnahme nicht ausschlaggebend.
-
+Allen Schüler:innen, die in Österreich gemeldet sind und/oder die österreichische Staatsbürgerschaft haben, können am Wettbewerb teilnehmen. Außerdem müssen sie im Wettbewerbsjahr (zum 1. Januar 2026) noch nicht die Oberstufe abgeschlossen haben und nach dem 1. Juli 2006 geboren sein, d.h. höchstens 20 sein. Insbesondere können also auch Schüler:innen im Maturajahrgang teilnehmen.
 
 ### Klausuren
 
 Die Aufgaben jeder Runde (inklusive der Hausaufgabenrunden) sollen alleine bearbeitet werden.
 
-Bei den Hausaufgabenrunden dürfen alle Hilfsmittel zurate gezogen werden. Das beinhaltet Bücher, das Internet und Programme wie Stellarium. Die besten, maximal 20, Teilnehmer:innen der Hausaufgabenrunden erhalten die Möglichkeit, an der Bundesrunde teilzunehmen.
+Bei den Hausaufgabenrunden dürfen alle Hilfsmittel zurate gezogen werden. Das beinhaltet Bücher, das Internet und Programme wie Stellarium. Die besten, maximal 15, Teilnehmer:innen der Hausaufgabenrunden erhalten die Möglichkeit, an der Bundesrunde teilzunehmen.
 
 Bei der Bundesrunde dürfen keine externen Hilfsmittel verwendet werden. Lediglich der eigene nicht programmierbare Taschenrechner ist erlaubt. Formelsammlungen werden bei der Bundesrunde bereitgestellt.
 
