@@ -1,47 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IOAA–Austria</title>
-    <link>https://ioaa-austria.at/</link>
-    <description>Recent content on IOAA–Austria</description>
+    <title>News on IOAA–Austria</title>
+    <link>https://ioaa-austria.at/news/</link>
+    <description>Recent content in News on IOAA–Austria</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ioaa-austria.at/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ablauf</title>
-      <link>https://ioaa-austria.at/informationen/ablauf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ioaa-austria.at/informationen/ablauf/</guid>
-      <description>Der Wettbewerb findet in drei Stufen statt:&#xA;Zunächst bekommen Schüler:innen aus Österreich die Möglichkeit, Aufgaben in Ruhe zu Hause in unseren drei Hausaufgabenrunden zu bearbeiten. Dieses Jahr werden diese Runden vorraussichtlich jeweils im Januar, März und Mai stattfinden. Erfolgreiche Einsendungen werden bewertet und die besten, maximal 20 Einsendungen, erhalten eine Einladung zur Bundesrunde.&#xA;Bei der (online) Bundesrunde, messen sich die besten österreichischen Astronomen und Astrophysiker in einer mehrstündigen Onlineklausur. Die Punkte der Hausaufgabenrunden sowie die der Bundesrunde werden zusammen gewertet und die besten 5 Schüler:innen bekommen die Chance, an der IOAA teilzunehmen.</description>
-    </item>
+    <atom:link href="https://ioaa-austria.at/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IOAA 2024 - Wir in Brasilien</title>
       <link>https://ioaa-austria.at/news/ioaa_2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ioaa-austria.at/news/ioaa_2024/</guid>
       <description>Jährlich schaffen es die besten Schüler:innen aus der ganzen Welt zur IOAA, der Internationalen Olympiade für Astronomie und Astrophysik. Die Teilnehmer:innen messen sich hier in einem mehrtägigen Wettbewerb, der aus herausfordernden Theorie- und Beobachtungsrunden besteht.&#xA;Das diesjährige Team bestand aus Donata Giulini (8. Klasse, Sir Karl Popper Schule), Benjamin Tonner (8. Klasse, BRG Zell am See) und Vincent Willis (8. Klasse, BRG APP Innsbruck) und wurde tatkräftig von den Teamleadern Lukas Hutter, Miro Joensuu und Elias Koschier unterstützt.</description>
-    </item>
-    <item>
-      <title>Lernmaterialien</title>
-      <link>https://ioaa-austria.at/informationen/lernmaterialien/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ioaa-austria.at/informationen/lernmaterialien/</guid>
-      <description>Das beste Training sind Altklausuren, daher findest du hier unsere Aufgaben aus vergangenen Jahren:&#xA;Jahr Hausaufgabenrunde Bundesrunde 2024 Hausaufgabenrunde 2024 Bundesrunde 2024 2025 Hausaufgabenrunde 2025 Bundesrunde 2025 Die Aufgaben der österreichischen Olympiade werden nach internationalem Vorbild gestellt. Diese kann man auf der Seite des internationalen Bewerbs finden.</description>
-    </item>
-    <item>
-      <title>Regeln</title>
-      <link>https://ioaa-austria.at/informationen/regeln/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ioaa-austria.at/informationen/regeln/</guid>
-      <description>Teilnahme Die Teilnahme ist allen im Wettbewerbsjahr an einer österreichischen Schule, in der Oberstufe eingeschriebenen Schüler:innen gestattet, die zum 1. Juli des Jahres noch jünger als 20 sind. Insbesondere können also auch Schüler:innen im Maturajahrgang teilnehmen.&#xA;Staatsbürgerschaft ist für die Teilnahme nicht ausschlaggebend.&#xA;Klausuren Die Aufgaben jeder Runde (inklusive der Hausaufgabenrunden) sollen alleine bearbeitet werden.&#xA;Bei den Hausaufgabenrunden dürfen alle Hilfsmittel zurate gezogen werden. Das beinhaltet Bücher, das Internet und Programme wie Stellarium.</description>
-    </item>
-    <item>
-      <title>Syllabus</title>
-      <link>https://ioaa-austria.at/informationen/sylabus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ioaa-austria.at/informationen/sylabus/</guid>
-      <description>Unser Syllabus entspricht momentan dem internationalen Syllabus (extern).</description>
     </item>
     <item>
       <title>‎Unsere Erfahrung in Indien: IOAA 2025</title>
