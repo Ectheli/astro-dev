@@ -1,0 +1,31 @@
+{{/*
+  GetServiceIcon
+
+  User can overwrite/complement in assets/ananke/socials/{service_name}.svg
+  and assets/ananke/socials/{service_name}.png
+
+  @author @regisphilibert
+
+  @context String (.)
+
+  @access private
+
+  @return String of safe HTML
+
+  @example - Go Template
+    {{ $icon := partialCached "tnd-socials/private/GetIcon" $icon $icon }}
+*/}}
+
+{{ $icon := "" }}
+
+{{ $svg := resources.Get (printf "ananke/socials/%s.svg" $) }}
+{{ if $svg }}
+  {{ $icon = $svg.Content | safeHTML }}
+{{ else }}
+  {{ $png := resources.Get (printf "ananke/socials/%s.png" $) }}
+  {{ if $png }}
+    {{ $icon = $png.Content | safeHTML }}
+  {{ end }}
+{{ end }}
+
+{{ return $icon }}
