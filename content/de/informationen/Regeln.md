@@ -16,7 +16,7 @@ Allen Schüler:innen, die in Österreich gemeldet sind und/oder die österreichi
 
 Die Aufgaben jeder Runde (inklusive der Hausaufgabenrunden) sollen alleine bearbeitet werden.
 
-Bei den Hausaufgabenrunden dürfen alle Hilfsmittel zurate gezogen werden. Das beinhaltet Bücher, das Internet und Programme wie Stellarium. Die besten, maximal 15, Teilnehmer:innen der Hausaufgabenrunden erhalten die Möglichkeit, an der Bundesrunde teilzunehmen.
+Bei den Hausaufgabenrunden dürfen alle Hilfsmittel zurate gezogen werden. Das beinhaltet Bücher, das Internet und Programme wie Stellarium. Die besten 10 Teilnehmer:innen der Hausaufgabenrunden erhalten die Möglichkeit, an der Bundesrunde teilzunehmen.
 
 Bei der Bundesrunde dürfen keine externen Hilfsmittel verwendet werden. Lediglich der eigene nicht programmierbare Taschenrechner ist erlaubt. Formelsammlungen werden bei der Bundesrunde bereitgestellt.
 
