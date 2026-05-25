@@ -1,0 +1,23 @@
+[Unit]
+Description=One-shot scheduled release for IOAA Astro site
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/miro/IOAA-Website/astro-dev
+ExecStart=/home/miro/IOAA-Website/astro-dev/scripts/release-at-time.sh
+
+# Override these with a drop-in file if needed:
+# systemctl --user edit ioaa-astro-release.service
+Environment=REPO_DIR=/home/miro/IOAA-Website/astro
+Environment=BRANCH=master
+Environment=COMMIT_MESSAGE=HS3
+Environment=LOG_FILE=/home/miro/IOAA-Website/astro-dev/release.log
+Environment="GIT_AUTHOR_NAME=IOAA Release Bot"
+Environment=GIT_AUTHOR_EMAIL=release-bot@ioaa-austria.at
+Environment="GIT_COMMITTER_NAME=IOAA Release Bot"
+Environment=GIT_COMMITTER_EMAIL=release-bot@ioaa-austria.at
+
+[Install]
+WantedBy=default.target

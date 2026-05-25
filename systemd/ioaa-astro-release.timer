@@ -1,0 +1,16 @@
+[Unit]
+Description=Run IOAA Astro release at a scheduled time
+
+[Timer]
+# Example (UTC): 2026-06-30 20:00:00 UTC
+# Replace this with your target date/time before enabling.
+OnCalendar=2026-05-23 7:00:00 UTC
+
+# If machine is down at target time, run once when it comes back.
+Persistent=true
+
+# Unit to execute.
+Unit=ioaa-astro-release.service
+
+[Install]
+WantedBy=timers.target
