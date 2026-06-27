@@ -1,11 +1,11 @@
 ---
 title: "Mitmachen"
-description: "Nächster Wettbewerb - Bundesrunde 2026"
+description: "Nächster Wettbewerb - IOAA & CEOAA 2026"
 featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 weight: "2"
 ---
 
-Vielen Dank an alle Teilnehmer unserer Hausaufgabenrunden! Eine Teilnahme an unserer Bundesrunde am **20.06.2026** erfolgt nach Einladung für die besten 10 Teilnehmer der Hausaufgabenrunden. Um dich auf diese oder unsere kommenden Wettbewerbe vorzubereiten, probiere dich gerne in unseren [Lernmaterialien](/informationen/lernmaterialien) an unseren Aufgaben vergangener Jahre.
+Vielen Dank an alle, die bei unseren diesjährigen Runden mitgemacht haben! Unsere nächste Hausaufgabenrunde beginnt im Frühjahr 2027. Weitere Informationen folgen kurz vorher. Um dich auf diese vorzubereiten, probiere dich gerne in unseren [Lernmaterialien](/informationen/lernmaterialien) an unseren Aufgaben vergangener Jahre.
 
 Für genauere Details siehe den [Ablauf](/informationen/ablauf) und unsere [Regeln](/informationen/regeln/).
 
