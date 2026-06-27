@@ -1,7 +1,7 @@
 ---
 title: "Vorentscheid IOAA 2026"
 description: ""
-featured_image: '/images/Bundesrunde_2026_1.PNG'
+featured_image: '/images/Bundesrunde_2026_1.png'
 menu:
   main:
     parent: "news"
