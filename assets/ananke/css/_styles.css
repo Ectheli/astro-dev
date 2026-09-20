@@ -20,6 +20,151 @@
   overflow-wrap: break-word;
 }
 
+/* ----- Site navigation / hamburger ----- */
+.site-nav__inner {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.site-nav__bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  width: 100%;
+}
+
+.site-nav__menu {
+  display: none;
+  flex-direction: column;
+  align-items: stretch;
+  width: 100%;
+  padding-top: 0.75rem;
+}
+
+.site-nav.is-open .site-nav__menu {
+  display: flex;
+}
+
+.site-nav__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.site-nav__item {
+  display: block;
+  margin: 0;
+  padding: 0.55rem 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.site-nav__link {
+  display: block;
+}
+
+.site-nav .ananke-socials {
+  padding-top: 0.75rem;
+}
+
+.nav-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  margin: 0;
+  padding: 0;
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  border-radius: 4px;
+  background: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+
+.nav-toggle__bars,
+.nav-toggle__bars::before,
+.nav-toggle__bars::after {
+  display: block;
+  width: 1.15rem;
+  height: 2px;
+  background: currentColor;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.nav-toggle__bars {
+  position: relative;
+}
+
+.nav-toggle__bars::before,
+.nav-toggle__bars::after {
+  content: "";
+  position: absolute;
+  left: 0;
+}
+
+.nav-toggle__bars::before {
+  top: -6px;
+}
+
+.nav-toggle__bars::after {
+  top: 6px;
+}
+
+.site-nav.is-open .nav-toggle__bars {
+  background: transparent;
+}
+
+.site-nav.is-open .nav-toggle__bars::before {
+  top: 0;
+  transform: rotate(45deg);
+}
+
+.site-nav.is-open .nav-toggle__bars::after {
+  top: 0;
+  transform: rotate(-45deg);
+}
+
+@media screen and (min-width: 60em) {
+  .site-nav__inner {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .site-nav__bar {
+    width: auto;
+  }
+
+  .nav-toggle {
+    display: none;
+  }
+
+  .site-nav__menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: auto;
+    padding-top: 0;
+  }
+
+  .site-nav__list {
+    display: flex;
+    align-items: center;
+  }
+
+  .site-nav__item {
+    display: inline-block;
+    padding: 0;
+    border-top: 0;
+  }
+
+  .site-nav .ananke-socials {
+    padding-top: 0;
+  }
+}
+
 /* Style the dropdown container */
 .dropdown {
   position: relative;
@@ -53,9 +198,23 @@
   color: black; /* Text color on hover */
 }
 
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {
-  display: block;
+/* Show the dropdown menu on hover (desktop) */
+@media screen and (min-width: 60em) {
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+}
+
+/* Hide nested dropdowns inside the mobile hamburger stack */
+@media screen and (max-width: 59.99em) {
+  .site-nav__menu .dropdown-content {
+    display: none !important;
+  }
+
+  .site-nav__menu .dropdown {
+    display: block;
+    width: 100%;
+  }
 }
 
 .button {
@@ -92,37 +251,46 @@ div.circular-image {
 
 .image-container {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.25rem 1.5rem;
+  width: 100%;
 }
 
+/* Flatten nested rows so all portraits share one wrapping grid */
 .images {
-  display: flex;
-  align-items: center; /* Align items to the bottom */
+  display: contents;
 }
 
 .top-image, .bottom-image {
   display: flex;
   flex-direction: column;
-  align-items: center; /* Center items horizontally */
-  margin-right: 10px; /* Adjust spacing between images */
-  margin-left: 10px;
+  align-items: center;
+  flex: 0 1 200px;
+  max-width: 200px;
+  margin: 0;
+  text-align: center;
 }
 
 .top-image .circular-image, .bottom-image .circular-image {
   width: 200px;
   height: 200px;
-  margin-bottom: 10px; /* Adjust spacing between image and text */
+  margin-bottom: 10px;
 }
 
 @media screen and (max-width: 600px) {
-  .top-image .circular-image, .bottom-image .circular-image {
-    width: 164px; /* Adjust maximum width for smaller screens */
-    height: 164px;
+  .image-container {
+    gap: 1rem;
   }
-  .bottom-image{
-    margin-right: 13px;
-    margin-left: 13px;
+
+  .top-image, .bottom-image {
+    flex: 0 1 140px;
+    max-width: 140px;
+  }
+
+  .top-image .circular-image, .bottom-image .circular-image {
+    width: 140px;
+    height: 140px;
   }
 }
 

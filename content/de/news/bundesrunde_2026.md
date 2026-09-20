@@ -5,7 +5,7 @@ featured_image: '/images/Bundesrunde_2026_1.png'
 menu:
   main:
     parent: "news"
-    weight: "1"
+    weight: "3"
 ---
 Die IOAA-Austria hat 2026 einen neuen Erfolg gefeiert: Das Jahr begann im Januar mit der [1. Hausaufgabenrunde](/files/Hausaufgabenrunde1_2026.pdf), bei der 23 Schüler:innen aus ganz Österreich teilnahmen. Schwierigere Aufgaben forderten die Schüler:innen bei der [2. Hausaufgabenrunde](/files/Hausaufgabenrunde2_2026.pdf) und bei der intensiven, ein Wochenende andauernden, [3. Hausaufgabenrunde](/files/Hausaufgabenrunde3_2026.pdf) heraus. Alle drei Hausaufgabenrunden waren als Take-Home-Klausuren organisiert. Es ging um Doppelsterne, kosmologische Erkenntnisse und präzise Beobachtungen des Mondes zur Bestimmung seiner Entfernung. 
 
@@ -27,6 +27,7 @@ Ein großer Dank für die erneute Unterstützung für diese Runden durch [Telesk
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; width: 100%; gap: 30px; margin: 0 auto; text-align: center;">
     <a href="https://teleskop-austria.at" target="_blank" style="flex-basis: 100%; max-width: 23%;"><img src="/images/teleskop-austria_logo-PRESS.png" alt="Teleskop-Austria" style="width: 100%;"></a>
+    <a href="https://www.ffg.at/" target="_blank" style="flex-basis: 100%; max-width: 33%;"><img src="/images/FFG_Logo_DE_CMYK.png" alt="FFG" style="width: 100%;"></a>
     <a href="https://www.bmimi.gv.at/" target="_blank" style="flex-basis: 100%; max-width: 33%;"><img src="/images/Logo_BMIMI_Gefoerdert_DE_SRGB.png" alt="BMIMI" style="width: 100%;"></a>
 </div>
 

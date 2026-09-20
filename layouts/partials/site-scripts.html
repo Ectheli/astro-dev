@@ -1,1 +1,28 @@
-{{/* For Users's overwrite */}}
+{{/* Site scripts */}}
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var nav = document.querySelector('.site-nav');
+    if (!nav) return;
+    var toggle = nav.querySelector('.nav-toggle');
+    var menu = nav.querySelector('#site-menu');
+    if (!toggle || !menu) return;
+
+    function setOpen(open) {
+      nav.classList.toggle('is-open', open);
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      toggle.setAttribute('aria-label', open ? 'Menü schließen' : 'Menü öffnen');
+    }
+
+    toggle.addEventListener('click', function () {
+      setOpen(!nav.classList.contains('is-open'));
+    });
+
+    document.addEventListener('keydown', function (event) {
+      if (event.key === 'Escape') setOpen(false);
+    });
+
+    window.addEventListener('resize', function () {
+      if (window.matchMedia('(min-width: 60em)').matches) setOpen(false);
+    });
+  });
+</script>
