@@ -152,6 +152,8 @@
   .site-nav__list {
     display: flex;
     align-items: center;
+    gap: 1.25rem;
+    margin-right: 1rem;
   }
 
   .site-nav__item {
@@ -169,6 +171,44 @@
 .dropdown {
   position: relative;
   display: inline-block;
+}
+
+.dropdown__trigger {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  width: 100%;
+}
+
+.dropdown-toggle {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  width: 2.25rem;
+  height: 2.25rem;
+  margin: 0;
+  padding: 0;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 4px;
+  background: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+
+.dropdown-toggle__icon {
+  display: block;
+  width: 0.55rem;
+  height: 0.55rem;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(45deg) translate(-1px, -1px);
+  transition: transform 0.2s ease;
+}
+
+.dropdown.is-open .dropdown-toggle__icon {
+  transform: rotate(225deg) translate(-1px, -1px);
 }
 
 /* Style the dropdown content */
@@ -203,17 +243,67 @@
   .dropdown:hover .dropdown-content {
     display: block;
   }
+
+  .dropdown__trigger {
+    display: inline-block;
+    width: auto;
+  }
 }
 
-/* Hide nested dropdowns inside the mobile hamburger stack */
+/* Mobile: tap chevron to open the same submenu popup as desktop hover */
 @media screen and (max-width: 59.99em) {
-  .site-nav__menu .dropdown-content {
-    display: none !important;
-  }
-
   .site-nav__menu .dropdown {
     display: block;
     width: 100%;
+  }
+
+  .site-nav__menu .site-nav__link {
+    flex: 1 1 auto;
+  }
+
+  .site-nav__menu .dropdown-toggle {
+    display: inline-flex;
+  }
+
+  .site-nav__menu .dropdown-content {
+    display: none;
+    position: absolute;
+    top: calc(100% + 0.35rem);
+    left: 0;
+    right: 0;
+    width: 100%;
+    max-width: none;
+    min-width: 0;
+    background-color: #111;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 4px;
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.45);
+    z-index: 30;
+  }
+
+  .site-nav__menu .dropdown.is-open .dropdown-content {
+    display: block;
+  }
+
+  .site-nav__menu .dropdown.is-open {
+    z-index: 30;
+  }
+
+  .site-nav__menu .dropdown-content a {
+    padding: 0.75rem 0.9rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+  }
+
+  .site-nav__menu .dropdown-content a:first-child {
+    border-top: 0;
+  }
+
+  .site-nav__item {
+    position: relative;
+  }
+
+  .site-nav__item:has(.dropdown.is-open) {
+    z-index: 30;
   }
 }
 
@@ -251,25 +341,27 @@ div.circular-image {
 
 .image-container {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 1.25rem 1.5rem;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.25rem;
   width: 100%;
 }
 
-/* Flatten nested rows so all portraits share one wrapping grid */
 .images {
-  display: contents;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: flex-start;
 }
 
 .top-image, .bottom-image {
   display: flex;
   flex-direction: column;
   align-items: center;
-  flex: 0 1 200px;
-  max-width: 200px;
-  margin: 0;
+  margin-right: 10px;
+  margin-left: 10px;
   text-align: center;
+  flex: 0 0 auto;
 }
 
 .top-image .circular-image, .bottom-image .circular-image {
@@ -278,19 +370,11 @@ div.circular-image {
   margin-bottom: 10px;
 }
 
-@media screen and (max-width: 600px) {
-  .image-container {
-    gap: 1rem;
-  }
-
-  .top-image, .bottom-image {
-    flex: 0 1 140px;
-    max-width: 140px;
-  }
-
-  .top-image .circular-image, .bottom-image .circular-image {
-    width: 140px;
-    height: 140px;
+/* Wrap portrait rows on narrower viewports to avoid horizontal scroll */
+@media screen and (max-width: 56em) {
+  .images {
+    flex-wrap: wrap;
+    gap: 1rem 0;
   }
 }
 
@@ -306,4 +390,28 @@ figure figcaption {
     display: block;
     text-align: center;
     font-style: italic; /* Optional: makes the caption italic */
+}
+
+/* Homepage / news summary cards */
+.news-summary__img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 2px;
+}
+
+.news-summary__body h1 {
+  margin-bottom: 0.5rem;
+}
+
+@media screen and (max-width: 59.99em) {
+  .news-summary__media {
+    margin-bottom: 0.85rem;
+  }
+
+  .news-summary__body {
+    max-width: 40rem;
+  }
 }

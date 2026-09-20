@@ -20,13 +20,25 @@
     <div id="site-menu" class="site-nav__menu">
       {{ partial "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
-        <ul class="site-nav__list {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3-l" "pl0 mr3-l" }}">
+        <ul class="site-nav__list {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
           {{ range where .Site.Menus.main "Params.excludeFromMenu" "!=" true}}
-              <li class="list f5 f4-ns fw4 site-nav__item {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3-l" "pr3-l" }}">
-                  <div class="dropdown">
-                    <a class="hover-white no-underline white-90 site-nav__link" href="{{ .URL }}">
-                      {{ .Name }}
-                    </a>
+              <li class="list f5 f4-ns fw4 site-nav__item {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+                  <div class="dropdown{{ if .HasChildren }} dropdown--has-children{{ end }}">
+                    <div class="dropdown__trigger">
+                      <a class="hover-white no-underline white-90 site-nav__link" href="{{ .URL }}">
+                        {{ .Name }}
+                      </a>
+                      {{ if .HasChildren }}
+                      <button
+                        type="button"
+                        class="dropdown-toggle"
+                        aria-expanded="false"
+                        aria-label="Untermenü {{ .Name }}"
+                      >
+                        <span class="dropdown-toggle__icon" aria-hidden="true"></span>
+                      </button>
+                      {{ end }}
+                    </div>
                     {{ if .HasChildren }}
                     <div class="dropdown-content">
                       {{ range .Children }}

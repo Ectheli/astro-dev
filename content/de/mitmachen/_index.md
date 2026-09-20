@@ -1,6 +1,6 @@
 ---
 title: "Mitmachen"
-description: "Nächster Wettbewerb - IOAA & CEOAA 2026"
+description: "Nächster Wettbewerb - IOAA 2026"
 featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 weight: "2"
 ---
