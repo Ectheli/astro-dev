@@ -8,11 +8,13 @@ cascade:
   featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
 
-Du interessierst dich für die Physik von Planeten und Sternen, findest den Nachthimmel aufregend und bist bereit für eine Herausforderung? Dann bist du bei uns genau richtig!
-
-<div style="text-align: center;">
-  <a href="/mitmachen/" class="button center" style="margin-right: 20px;">Mach mit!</a>
+<div class="hero-cta">
+  <a href="/mitmachen/" class="hero-cta__button" data-hero-button><span class="hero-cta__button-label">Mach mit!</span></a>
 </div>
+
+{{< year-timeline >}}
+
+<p class="hero-cta__prompt" data-hero-prompt>Bist du bereit für die Herausforderung?</p>
 
 <div style="margin-bottom: 100px;"></div>
 
@@ -21,9 +23,7 @@ Du interessierst dich für die Physik von Planeten und Sternen, findest den Nach
 ### Die IOAA
 
 
-Die IOAA (International Olympiad on Astronomy and Astrophysics) ist ein jährlich stattfindender Schülerwettbewerb in Astronomie und Astrophysik. Die Olympiade ist in einen theoretischen und einen praktischen Teil unterteilt, bei dem die Schüler:innen in mehrstündigen Klausuren ihr Können unter Beweis stellen. Im Mittelpunkt steht neben der Astronomie und Astrophysik aber auch der Austausch mit ähnlich Gesinnten.
-
-Seit 2007 findet die IOAA parallel zu anderen Wissenschaftsolympiaden wie der Mathematik- und Physikolympiade international statt. Die etwa 50 teilnehmenden Länder werden dabei jeweils durch fünf Schüler:innen bei dem Wettbewerb vertreten. Hier findest du die [IOAA Website](https://www.ioaastrophysics.org).  </div>
+Die [IOAA Website](https://www.ioaastrophysics.org) (International Olympiad on Astronomy and Astrophysics) ist ein jährlich stattfindender Schülerwettbewerb in Astronomie und Astrophysik. Die Olympiade ist in einen theoretischen und einen praktischen Teil unterteilt, bei dem die Schüler:innen in mehrstündigen Klausuren ihr Können unter Beweis stellen. Im Mittelpunkt steht neben der Astronomie und Astrophysik auch der internationale Austausch. Die etwa 60 teilnehmenden Länder werden dabei jeweils durch fünf Schüler:innen vertreten. [IOAA Website](https://www.ioaastrophysics.org). </div>
 
 
 <!-- Sponsors Section -->
