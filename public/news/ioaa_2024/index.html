@@ -101,27 +101,61 @@ Das diesjährige Team bestand aus Donata Giulini (8. Klasse, Sir Karl Popper Sch
     var timelines = document.querySelectorAll('[data-year-timeline]');
     if (!timelines.length) return;
 
-    function revealTimeline(el) {
-      el.classList.add('is-visible');
+    var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var search = window.location.search;
+    var host = window.location.hostname;
+    var localPreview = host === 'localhost' || host === '127.0.0.1';
+    
+    
+    var forceMotion =
+      /(?:\?|&)motion=1(?:&|$)/.test(search) ||
+      (localPreview && reduceMotion && !/(?:\?|&)motion=0(?:&|$)/.test(search));
+    var animate = !reduceMotion || forceMotion;
+    if (forceMotion) document.documentElement.classList.add('force-motion');
+
+    var heroButton = document.querySelector('[data-hero-button]');
+    var heroPrompt = document.querySelector('[data-hero-prompt]');
+
+    function show(el) {
+      if (el) el.classList.add('is-visible');
     }
 
-    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-      timelines.forEach(revealTimeline);
-      return;
+    function startHeroSequence(timeline) {
+      if (timeline.classList.contains('is-visible')) return;
+
+      if (!animate) {
+        show(heroButton);
+        show(timeline);
+        show(heroPrompt);
+        return;
+      }
+
+      requestAnimationFrame(function () {
+        requestAnimationFrame(function () {
+          
+          show(heroButton);
+          setTimeout(function () {
+            show(timeline);
+            setTimeout(function () {
+              show(heroPrompt);
+            }, 1400);
+          }, 320);
+        });
+      });
     }
 
     if (!('IntersectionObserver' in window)) {
-      timelines.forEach(revealTimeline);
+      timelines.forEach(startHeroSequence);
       return;
     }
 
     var observer = new IntersectionObserver(function (entries) {
       entries.forEach(function (entry) {
         if (!entry.isIntersecting) return;
-        revealTimeline(entry.target);
+        startHeroSequence(entry.target);
         observer.unobserve(entry.target);
       });
-    }, { threshold: 0.35 });
+    }, { threshold: 0.12, rootMargin: '0px 0px -5% 0px' });
 
     timelines.forEach(function (timeline) {
       observer.observe(timeline);
