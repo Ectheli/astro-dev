@@ -5,7 +5,7 @@ featured_image: '/images/Bundesrunde_2026_1.png'
 menu:
   main:
     parent: "news"
-    weight: "3"
+    weight: "4"
 ---
 Die IOAA-Austria hat 2026 einen neuen Erfolg gefeiert: Das Jahr begann im Januar mit der [1. Hausaufgabenrunde](/files/Hausaufgabenrunde1_2026.pdf), bei der 23 Schüler:innen aus ganz Österreich teilnahmen. Schwierigere Aufgaben forderten die Schüler:innen bei der [2. Hausaufgabenrunde](/files/Hausaufgabenrunde2_2026.pdf) und bei der intensiven, ein Wochenende andauernden, [3. Hausaufgabenrunde](/files/Hausaufgabenrunde3_2026.pdf) heraus. Alle drei Hausaufgabenrunden waren als Take-Home-Klausuren organisiert. Es ging um Doppelsterne, kosmologische Erkenntnisse und präzise Beobachtungen des Mondes zur Bestimmung seiner Entfernung. 
 

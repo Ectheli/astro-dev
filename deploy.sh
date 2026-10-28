@@ -10,9 +10,10 @@ DEPLOY_DIR="${SCRIPT_DIR}/../astro"
 
 cd "$SCRIPT_DIR"
 
-# Build with production env so robots.txt allows all
+# Build with production env so robots.txt allows all.
+# --cleanDestinationDir drops files removed from static/ so they are not copied to astro.
 echo "Building site (HUGO_ENV=production)..."
-HUGO_ENV=production hugo
+HUGO_ENV=production hugo --cleanDestinationDir
 
 if [[ ! -d "$DEPLOY_DIR" ]]; then
   echo "Error: astro (deployment folder) not found at $DEPLOY_DIR"

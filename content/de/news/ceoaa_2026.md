@@ -5,7 +5,7 @@ featured_image: '/images/CEOAA_2026/IMG_1864.JPG'
 menu:
   main:
     parent: "news"
-    Weight: "1"
+    Weight: "2"
 ---
 
 Am Freitag, dem 4. September, war es endlich so weit: Nach einem intensiven Online-Sommertraining traf das österreichische Nationalteam erstmals persönlich aufeinander. Gemeinsam ging es zur Zentraleuropäischen Astronomie- und Astrophysikolympiade (CEOAA) nach Zagreb, um dort das Gelernte anzuwenden und die eigenen Astronomiekenntnisse unter Beweis zu stellen.

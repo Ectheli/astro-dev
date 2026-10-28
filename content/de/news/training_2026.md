@@ -5,7 +5,7 @@ featured_image: '/images/Training_2026/IMG-20260802-WA0002.jpg'
 menu:
   main:
     parent: "news"
-    Weight: "2"
+    Weight: "3"
 ---
 
 Über den gesamten Sommer 2026 bereitete sich das fünfköpfige österreichische Nationalteam intensiv auf die Central European Olympiad in Astronomy and Astrophysics (CEOAA) und die International Olympiad on Astronomy and Astrophysics (IOAA) vor. Neben Übungszetteln zum selbstständigen Bearbeiten fanden insgesamt sechs Online-Trainingstage statt. Vier davon wurden vom Organisationsteam der Österreichischen Astronomieolympiade gestaltet, zwei weitere gemeinsam mit externen Experten durchgeführt.

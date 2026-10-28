@@ -1,13 +1,13 @@
 ---
 title: "Mitmachen"
-description: "Nächster Wettbewerb - IOAA 2026"
+description: "Nächster Wettbewerb - Registrierung 2027"
 featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 weight: "2"
 ---
 
-Vielen Dank an alle, die bei unseren diesjährigen Runden mitgemacht haben! Unsere nächste Hausaufgabenrunde beginnt im Frühjahr 2027. Weitere Informationen folgen kurz vorher. Um dich auf diese vorzubereiten, probiere dich gerne in unseren [Lernmaterialien](/informationen/lernmaterialien) an unseren Aufgaben vergangener Jahre.
+Bewirb dich für die IOAA 2027 durch deine Teilnahme an "Astronomie im Advent" auf [Instagram](https://www.instagram.com/ioaa_austria/) oder durch das Ausfüllen unseres Ankreuztests hier. Beides kann ab dem 1. Dezember 2026 bearbeitet werden. Probiere bis dahin gerne die Aufgaben vergangener Jahre in unseren [Lernmaterialien](/informationen/lernmaterialien) aus.
 
-Für genauere Details siehe den [Ablauf](/informationen/ablauf) und unsere [Regeln](/informationen/regeln/).
+Für genauere Details siehe den [Ablauf 2027](/informationen/ablauf) und unsere [Regeln](/informationen/regeln/).
 
 
 <!-- Bearbeite ab sofort die Aufgaben der [dritten Hausaufgabenrunde](/files/Hausaufgabenrunde3_2026.pdf). Die Lösungen können bis **Sonntag, 24.05.2026 (23:59 Uhr)** als E-Mail bei [astro-olympiad@outlook.com](mailto:astro-olympiad@outlook.com) eingereicht werden. Die Lösungen müssen handschriftlich erstellt werden und sollen als eine PDF-Datei im Format **vorname-nachname.pdf** abgegeben werden. Erwähne außerdem in deiner E-Mail deinen **Vornamen**, **Nachnamen** sowie deine **Schule** und **Klassenstufe**.

@@ -23,7 +23,7 @@ cascade:
 ### Die IOAA
 
 
-Die [IOAA Website](https://www.ioaastrophysics.org) (International Olympiad on Astronomy and Astrophysics) ist ein jährlich stattfindender Schülerwettbewerb in Astronomie und Astrophysik. Die Olympiade ist in einen theoretischen und einen praktischen Teil unterteilt, bei dem die Schüler:innen in mehrstündigen Klausuren ihr Können unter Beweis stellen. Im Mittelpunkt steht neben der Astronomie und Astrophysik auch der internationale Austausch. Die etwa 60 teilnehmenden Länder werden dabei jeweils durch fünf Schüler:innen vertreten. [IOAA Website](https://www.ioaastrophysics.org). </div>
+Die [IOAA](https://www.ioaastrophysics.org) (International Olympiad on Astronomy and Astrophysics) ist ein jährlich stattfindender Schülerwettbewerb in Astronomie und Astrophysik. Die Olympiade ist in einen theoretischen und einen praktischen Teil unterteilt, bei dem die Schüler:innen in mehrstündigen Klausuren ihr Können unter Beweis stellen. Im Mittelpunkt steht neben der Astronomie und Astrophysik auch der internationale Austausch. Die etwa 60 teilnehmenden Länder werden dabei jeweils durch fünf Schüler:innen vertreten. </div>
 
 
 <!-- Sponsors Section -->
